@@ -1,7 +1,7 @@
 {
-	"name": "socketio-chat-demo",
+	"name": "kickwe-node-chat",
 	"version": "0.1.0",
-	"description": "A sample app for Learn to Code LA, a very simple real-time chatroom app built with NodeJS, Express and SocketIO",
+	"description": "kickwe tutorial app built with NodeJS, Express and SocketIO",
 	"dependencies": {
 		"express": "^4.10.2",
 		"socket.io": "^1.4.8"
